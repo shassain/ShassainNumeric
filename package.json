@@ -1,41 +1,18 @@
 {
-  "_from": "react-shassain-numeric",
-  "_id": "react-shassain-numeric@1.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-Xo8TTnqFbxxHM/huxgNYrXyu/TmImk/MgBUYcq8cf5ZsOTSP7ggbxRtXvyMZZdKEgdj6CPTF5VKpKU9lTqMdcw==",
-  "_location": "/react-shassain-numeric",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "react-shassain-numeric",
-    "name": "react-shassain-numeric",
-    "escapedName": "react-shassain-numeric",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-numeric/-/react-numeric-1.0.0.tgz",
-  "_shasum": "eb6904c95c0d97a98567bf5f2f2ae190f93f422c",
-  "_spec": "react-shassain-numeric",
   "author": {
     "name": "Juan Carlos Huallpa",
     "email": "shassain5@gmail.com",
-    "url": "https://github.com/mkg0"
+    "url": "https://github.com/shassain"
   },
   "bugs": {
-    "url": "https://github.com/mkg0/react-numeric/issues"
+    "url": "https://github.com/shassain/ShassainNumeric/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
     "autonumeric": "^4.4.0"
   },
   "deprecated": false,
-  "description": "A react component for formatted number form fields, subsanado el bug al editar el numero",
+  "description": "A react component for formatted number form fields",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.2",
@@ -59,7 +36,7 @@
     "webpack-cli": "^2.0.14",
     "webpack-dev-server": "^3.1.3"
   },
-  "homepage": "https://github.com/mkg0/react-numeric#readme",
+  "homepage": "https://github.com/shassain/ShassainNumeric#readme",
   "keywords": [
     "autonumeric",
     "currency",
@@ -86,7 +63,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkg0/react-numeric.git"
+    "url": "git+https://github.com/shassain/ShassainNumeric.git"
   },
   "scripts": {
     "build": "yarn build-library && yarn build-demo",

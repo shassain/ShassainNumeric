@@ -1,20 +1,17 @@
-# react-numeric
+# react-shassain-numeric
 
 [![npm](https://img.shields.io/npm/l/react-numeric.svg?style=flat-square)]()
 [![npm](https://img.shields.io/npm/v/react-numeric.svg?style=flat-square)](https://www.npmjs.com/package/react-numeric)
 
 
 A react component for formatted number form fields
-> react-numeric is a wrapper component for [autonumeric](https://github.com/autoNumeric/autoNumeric).
-## Actualizacion
-    subsanado de bug al momento de editar
+> react-shassain-numeric is a wrapper component for [autonumeric](https://github.com/autoNumeric/autoNumeric).
+
 
 ## Installition
 
 ```sh
-yarn add react-numeric
-# or
-npm install react-numeric --save
+npm install react-shassain-numeric --save
 ```
 
 ## Usage
