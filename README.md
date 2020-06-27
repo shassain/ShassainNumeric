@@ -1,7 +1,7 @@
 # react-shassain-numeric
 
 [![npm](https://img.shields.io/npm/l/react-numeric.svg?style=flat-square)]()
-[![npm](https://img.shields.io/npm/v/react-numeric.svg?style=flat-square)](https://www.npmjs.com/package/react-numeric)
+[![npm](https://img.shields.io/npm/v/react-numeric.svg?style=flat-square)](https://www.npmjs.com/package/react-shassain-numeric)
 
 
 A react component for formatted number form fields
